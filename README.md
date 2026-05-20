@@ -8,75 +8,79 @@
 
 ---
 
-## 🚀 Мои ключевые навыки
+## 🛠️ Технологии
 
-- **Фреймворки:** Vue 3 (Composition API, Pinia, Router), React (базовый уровень, активно учу)
-- **Языки:** TypeScript, JavaScript (ES6+), HTML5, CSS3, SCSS, Tailwind
-- **Инструменты:** Vite, Docker, CI/CD (GitHub Actions), Git, Figma
-- **API:** REST API, WebSockets, Axios
-- **Backend (понимаю):** Laravel (базовый), MySQL, Postman
-
----
-
-## 💼 Опыт работы (5 лет 3 месяца)
-
-**Quantum (Новосибирск)** – *Frontend-разработчик* (Янв 2026 – настоящее время)  
-- Разработал архитектуру Vue 3-приложения, сократив дублирование компонентов на 40%.
-- Настроил Docker-контейнеризацию и CI/CD пайплайн на GitHub Actions.
-
-**Синергиум (Воронеж)** – *Программист-разработчик* (Фев 2022 – Дек 2025)  
-- Разработал и поддерживал 50+ переиспользуемых компонентов на Laravel Blade + Vanilla JS.
-
-**Dnext (Псков)** – *Frontend-разработчик* (Март 2021 – Фев 2022)  
-- Верстал адаптивные интерфейсы по БЭМ. Работал с API Битрикса.
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
-## 🛠️ Мои реальные проекты
+## 💼 Опыт работы
 
-### Сайты для бизнеса (Laravel + JS)
+**Quantum (Новосибирск)** – *Frontend-разработчик* (2026 — н.в.)  
+- Разработал архитектуру Vue 3-приложения, сократив дублирование компонентов на 40%
+- Настроил Docker-контейнеризацию и CI/CD на GitHub Actions
 
-| Проект | Описание | Технологии |
-|--------|----------|-------------|
-| <a href="https://artdentnn.ru/" target="_blank">🌐 ArtDent NN</a> | Сайт стоматологии в Нижнем Новгороде. | HTML, CSS, JS, Laravel |
-| <a href="https://neworbita.ru/" target="_blank">🌐 NewOrbita</a> | Сайт стоматологии в Санкт-Петербурге. | HTML, CSS, JS, Laravel |
-| <a href="https://me-dent.ru/" target="_blank">🌐 Me-Dent</a> | Сайт стоматологии в Москве. | HTML, CSS, JS, Laravel |
-| <a href="https://www.virtuozcenter.ru/" target="_blank">🌐 VirtuozCenter</a> | Сайт стоматологии в Воронеже. | HTML, CSS, JS, Laravel |
+**Синергиум (Воронеж)** – *Программист-разработчик* (2022–2025)  
+- Разработал и поддерживал 50+ переиспользуемых компонентов
 
-### Лендинги и промо-сайты
-
-| Проект | Описание | Технологии |
-|--------|----------|-------------|
-| <a href="https://gasit-renewal.ru/" target="_blank">🌐 Gasit</a> | Лендинг для рекламы таблеток от изжоги. | HTML, CSS, JS |
-| <a href="https://veny-vertex.ru/" target="_blank">🌐 Veny-Vertex</a> | Сайт о препаратах для лечения боли и отёков. | HTML, CSS, JS |
-
-### Государственные и туристические проекты
-
-| Проект | Описание | Технологии |
-|--------|----------|-------------|
-| <a href="https://ticpskov.ru/" target="_blank">🌐 TIC Pskov</a> | Туристический портал Пскова. | HTML, CSS, JS |
-| <a href="https://export60.ru/" target="_blank">🌐 Export60</a> | Центр поддержки экспорта Псковской области. | HTML, CSS, JS |
-
-### Сложные системы (CRM)
-
-| Проект | Описание | Технологии |
-|--------|----------|-------------|
-| <a href="https://app.corcava.com/" target="_blank">🌐 Corcava</a> | CRM-система: учёт времени, счета, поддержка, AI. | HTML, CSS, JS, Laravel |
-
-> **Примечание:** Некоторые проекты были выполнены в рамках работы в компаниях или на фрилансе. Все сайты работают и приносят пользу заказчикам.
+**Dnext (Псков)** – *Frontend-разработчик* (2021–2022)  
+- Вёрстка адаптивных интерфейсов, работа с API Битрикса
 
 ---
 
-## 📫 Как со мной связаться
+## 🚀 Мои проекты
 
-- **Telegram:** [@Filimonenkov_99](https://t.me/Filimonenkov_99) (самый быстрый способ)
+### Стоматологии (Laravel + JS)
+
+<div>
+  <a href="https://artdentnn.ru/"><code>🦷 ArtDent NN</code></a> &nbsp;
+  <a href="https://neworbita.ru/"><code>🦷 NewOrbita</code></a> &nbsp;
+  <a href="https://me-dent.ru/"><code>🦷 Me-Dent</code></a> &nbsp;
+  <a href="https://www.virtuozcenter.ru/"><code>🦷 VirtuozCenter</code></a>
+</div>
+
+<br>
+
+### Лендинги и промо
+
+<div>
+  <a href="https://gasit-renewal.ru/"><code>💊 Gasit</code></a> &nbsp;
+  <a href="https://veny-vertex.ru/"><code>💊 Veny-Vertex</code></a>
+</div>
+
+<br>
+
+### Государственные и туристические
+
+<div>
+  <a href="https://ticpskov.ru/"><code>🏛️ TIC Pskov</code></a> &nbsp;
+  <a href="https://export60.ru/"><code>📤 Export60</code></a>
+</div>
+
+<br>
+
+### CRM
+
+<div>
+  <a href="https://app.corcava.com/"><code>📊 Corcava</code></a>
+</div>
+
+---
+
+## 📫 Связь
+
+- **Telegram:** [@Filimonenkov_99](https://t.me/Filimonenkov_99)
 - **Почта:** sitesmaker@mail.ru
-- **Резюме на hh.ru:** скину по запросу
+- **Резюме на hh:** по запросу
 
 ---
 
-## ⚡ Обо мне
-
-Я окончил Псковский политехнический колледж, но прошел путь от верстки до Docker и CI/CD без наставников. Умею работать в команде, проходить код-ревью, быстро въезжать в чужой код.
-
-> *Открыт к предложениям о работе и конструктивному общению. Готов к тестовым заданиям.*
+> *Открыт к предложениям о работе. Готов к тестовым заданиям.*
