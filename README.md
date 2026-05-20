@@ -38,30 +38,30 @@
 
 | Проект | Описание | Технологии |
 |--------|----------|-------------|
-| **[ArtDent NN](https://artdentnn.ru/)** | Сайт стоматологии в Нижнем Новгороде. Сбор заявок, прайс, реклама. | HTML, CSS, JS, Laravel |
-| **[NewOrbita](https://neworbita.ru/)** | Сайт стоматологии в Санкт-Петербурге. | HTML, CSS, JS, Laravel |
-| **[Me-Dent](https://me-dent.ru/)** | Сайт стоматологии в Москве. | HTML, CSS, JS, Laravel |
-| **[VirtuozCenter](https://www.virtuozcenter.ru/)** | Сайт стоматологии в Воронеже. | HTML, CSS, JS, Laravel |
+| <a href="https://artdentnn.ru/" target="_blank">🌐 ArtDent NN</a> | Сайт стоматологии в Нижнем Новгороде. | HTML, CSS, JS, Laravel |
+| <a href="https://neworbita.ru/" target="_blank">🌐 NewOrbita</a> | Сайт стоматологии в Санкт-Петербурге. | HTML, CSS, JS, Laravel |
+| <a href="https://me-dent.ru/" target="_blank">🌐 Me-Dent</a> | Сайт стоматологии в Москве. | HTML, CSS, JS, Laravel |
+| <a href="https://www.virtuozcenter.ru/" target="_blank">🌐 VirtuozCenter</a> | Сайт стоматологии в Воронеже. | HTML, CSS, JS, Laravel |
 
 ### Лендинги и промо-сайты
 
 | Проект | Описание | Технологии |
 |--------|----------|-------------|
-| **[Gasit](https://gasit-renewal.ru/)** | Лендинг для рекламы таблеток от изжоги (Renewal). | HTML, CSS, JS |
-| **[Veny-Vertex](https://veny-vertex.ru/)** | Сайт о препаратах для лечения боли, отеков, геморроя. | HTML, CSS, JS |
+| <a href="https://gasit-renewal.ru/" target="_blank">🌐 Gasit</a> | Лендинг для рекламы таблеток от изжоги. | HTML, CSS, JS |
+| <a href="https://veny-vertex.ru/" target="_blank">🌐 Veny-Vertex</a> | Сайт о препаратах для лечения боли и отёков. | HTML, CSS, JS |
 
 ### Государственные и туристические проекты
 
 | Проект | Описание | Технологии |
 |--------|----------|-------------|
-| **[TIC Pskov](https://ticpskov.ru/)** | Туристический портал Пскова: мероприятия, достопримечательности. | HTML, CSS, JS |
-| **[Export60](https://export60.ru/)** | Сайт Центра поддержки экспорта Псковской области. | HTML, CSS, JS |
+| <a href="https://ticpskov.ru/" target="_blank">🌐 TIC Pskov</a> | Туристический портал Пскова. | HTML, CSS, JS |
+| <a href="https://export60.ru/" target="_blank">🌐 Export60</a> | Центр поддержки экспорта Псковской области. | HTML, CSS, JS |
 
 ### Сложные системы (CRM)
 
 | Проект | Описание | Технологии |
 |--------|----------|-------------|
-| **[Corcava](https://app.corcava.com/)** | CRM-система: учет времени, счета, служба поддержки, AI. | HTML, CSS, JS, Laravel |
+| <a href="https://app.corcava.com/" target="_blank">🌐 Corcava</a> | CRM-система: учёт времени, счета, поддержка, AI. | HTML, CSS, JS, Laravel |
 
 > **Примечание:** Некоторые проекты были выполнены в рамках работы в компаниях или на фрилансе. Все сайты работают и приносят пользу заказчикам.
 
