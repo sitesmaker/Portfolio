@@ -88,6 +88,16 @@
   <a href="https://app.corcava.com/"><code>📊 Corcava</code></a>
 </div>
 
+### Международные проекты
+
+<div>
+  <a href="http://bo-as.auexch.net/"><code>🌍 Betting platform (international)</code></a>
+</div>
+
+*Участвовал в разработке международной беттинг-платформы. Проект доступен через VPN (Великобритания). Работал над интерфейсами, интеграцией с API, оптимизацией скорости.*
+
+<br>
+
 ---
 
 ## 📫 Связь
